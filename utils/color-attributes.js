@@ -2259,5 +2259,3 @@ export const colorAttributes = {
     "Zoom Grey/Black": ["#79888b", "#000000"],
   },
 };
-
-export const PI = "3!!!!!!";
